@@ -4,7 +4,7 @@
 Symulation of HiFi controller based on SystemC
 
 # Technologies
-C++
+C++          
 SystemC
 
 # Setup
