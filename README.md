@@ -8,4 +8,10 @@ C++
 SystemC
 
 # Setup
-Followe the guide : learnsystemc
+Followe the guide : [learnsystemc](https://www.learnsystemc.com/setup/docker)
+
+To build and run project use:
+```
+make 
+./out.exe
+```
