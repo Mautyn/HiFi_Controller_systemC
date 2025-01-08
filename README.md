@@ -8,3 +8,4 @@ C++
 SystemC
 
 # Setup
+Followe the guide : learnsystemc
